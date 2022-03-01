@@ -1,6 +1,7 @@
-WEBSITE DE UM RESTAURANTE RESPONSIVO
+WEBSITE DE UM RESTAURANTE
 
-WEBSITE DE UM RESTAURANTE RESPONSIVO
+Responsivo e online. 
 
-Design de um site responsivo para restaurante. Ele contém menu, home, sobre, cardápio, delivery, contato e rodapé.
-Desenvolvido primeiramente para dispositivos móveis e depois para desktop.
+Link restaugusto.ml
+
+
